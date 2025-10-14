@@ -16,7 +16,7 @@
   <img align="center" alt="Saaxz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Saaxz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saaxz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Saaxz-killua" src="https://media.discordapp.net/attachments/1213611539936976996/1214167688373604393/giphy_8_1.gif?ex=68ef80c7&is=68ee2f47&hm=0e4bbf4925d6e60c03bc0208a58247cf877a199b11719b9b90cd3b88af83e410&=">
+  <img align="right" alt="Saaxz-killua" src="https://cdn.discordapp.com/attachments/1213611539936976996/1421869962422784132/EBD072DD-D338-4894-84A4-BE1A2F35DA24.gif?ex=68efb318&is=68ee6198&hm=a20258f04288b61724e27af3f2252d26fb5d9db9bd8bc4d3d9978824e76f2b21&">
 </div>
   
   ## REDES

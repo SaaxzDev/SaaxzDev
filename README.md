@@ -1,4 +1,4 @@
- ## Opaa, Eu sou o Samuel, prazer! 👋
+<h2 align="center">Opaa, Eu sou o Samuel, prazer! 👋</h2>
  
 <div 
 align="center" 

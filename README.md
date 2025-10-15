@@ -1,9 +1,13 @@
-## Opaa, Eu sou o Samuel, prazer 👋
-
+ ## Opaa, Eu sou o Samuel, prazer! 👋
+ 
+<div 
+align="center" 
+  
 - 💻Dev Back-end
 - 🎯 Procurando por Jobs | Looking for Jobs
 - 👨🏼‍🎓 FIAP STUDENT - Analíse e Desenvolvimento de Sistemas
 - ✉ Email pessoal: samuelcavalcanti001@gmail.com | Personal Email: samuelcavalcanti001@gmail.com
+  </div>
   
  <div>
   <a href="https://github.com/SaaxzDev">

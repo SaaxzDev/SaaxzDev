@@ -7,8 +7,8 @@
   
  <div>
   <a href="https://github.com/SaaxzDev">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=SaaxzDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaxzdev&layout=compact&langs_count=16&theme=dark"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=saaxzdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=600"/>
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaxzdev&layout=compact&langs_count=16&theme=dark&cache_seconds=600"/>
 </div> 
   
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
   <img align="center" alt="Saaxz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Saaxz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saaxz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="150" alt="Saaxz-killua" src="https://media.discordapp.net/attachments/1214020534023618658/1342523233110462515/f17e4f2f022a292f4984e633b83aac92.jpg?ex=68efc231&is=68ee70b1&hm=8d6c4a9efd3e59c34e9df7968b67ede6189e58fa2595189d03e5397bac1149e9&=&format=webp">
+  <img align="right" height="140" alt="Saaxz-killua" src="https://media.discordapp.net/attachments/1214020534023618658/1342523233110462515/f17e4f2f022a292f4984e633b83aac92.jpg?ex=68efc231&is=68ee70b1&hm=8d6c4a9efd3e59c34e9df7968b67ede6189e58fa2595189d03e5397bac1149e9&=&format=webp">
 </div>
   
 ##

@@ -22,7 +22,7 @@ align="center"
   <img align="center" alt="Saaxz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Saaxz-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Saaxz-ORCL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
-  <img align="right" height="140" alt="Saaxz-killua" src="https://br.pinterest.com/pin/4011087175351448/">
+  <img align="right" height="140" alt="Saaxz" src="https://br.pinterest.com/pin/1049549888172227225/">
 </div>
   
 ##

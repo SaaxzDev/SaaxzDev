@@ -3,7 +3,7 @@
 <div 
 align="center" 
   
-- 💻Dev Back-end
+- 💻 Data Analyst
 - 🎯 Procurando por Jobs | Looking for Jobs
 - 👨🏼‍🎓 FIAP STUDENT - Analíse e Desenvolvimento de Sistemas
 - ✉ Email pessoal: samuelcavalcanti001@gmail.com | Personal Email: samuelcavalcanti001@gmail.com
